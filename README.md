@@ -19,3 +19,6 @@ were taken into consideration.
 
 
 Below are some of the screenshots of the AgriCo software.
+
+![Screenshot (16)](https://user-images.githubusercontent.com/68071470/204336690-46bdcae6-0988-4a11-b6c2-3d07a657ae5e.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/68071470/204336723-f571b5c5-15e3-4dfb-8b42-fadaf7255fcd.png)
